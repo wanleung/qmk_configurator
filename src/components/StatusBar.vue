@@ -3,7 +3,7 @@
     <div class="qmk-branding">
       <div class="qmk-logo"></div>
       <div class="qmk-app-name">
-        QMK Configurator
+        QMK Configurator - MyOwn.Works Edition
       </div>
       <div class="bes-version">
         {{ $t('apiVersionPrefix') }}
